@@ -75,6 +75,9 @@ export const translations = {
     mentorship_card_title: "Mentors & Young Minds",
     mentorship_card_desc: "Share profound experience and guidance, while bringing boundless curiosity and revolutionary ideas. The intergenerational exchange is the lifeblood of our progress.",
     
+    campus_title: "The Club <span class=\"gradient-text\">Grounds</span>",
+    campus_desc: "Designed for profound conversations and quiet reflection.",
+    
     impact_title: "From Ideas to <span class=\"gradient-text\">Impact</span>",
     impact_desc: "The club is not just a discussion platform. It is a powerful catalyst for tangible, worldly action.",
     imp_1_title: "Education",
@@ -172,6 +175,9 @@ export const translations = {
     mentorship_desc: "ପ୍ରତ୍ୟେକ ପିଢ଼ି ଜ୍ଞାନ ଉତ୍ତରାଧିକାରୀ ସୂତ୍ରରେ ପାଏ। ଆମର ଦାୟିତ୍ୱ ହେଉଛି ଏହାକୁ କଠୋର ଭାବରେ ଉନ୍ନତ କରିବା ଏବଂ ଆଗକୁ ବଢ଼ାଇବା।",
     mentorship_card_title: "ମାର୍ଗଦର୍ଶକ ଏବଂ ଯୁବ ମନ",
     mentorship_card_desc: "ଅସୀମ କୌତୁହଳ ଏବଂ ବିପ୍ଳବାତ୍ମକ ଧାରଣା ଆଣିବା ସହିତ ଗଭୀର ଅଭିଜ୍ଞତା ଏବଂ ମାର୍ଗଦର୍ଶନ ବାଣ୍ଟନ୍ତୁ। ପିଢ଼ି ମଧ୍ୟରେ ଆଦାନପ୍ରଦାନ ଆମର ପ୍ରଗତିର ଜୀବନରେଖା ଅଟେ।",
+    
+    campus_title: "କ୍ଲବ <span class=\"gradient-text\">ପରିସର</span>",
+    campus_desc: "ଗଭୀର କଥୋପକଥନ ଏବଂ ଶାନ୍ତ ଚିନ୍ତନ ପାଇଁ ଡିଜାଇନ୍ କରାଯାଇଛି।",
     
     impact_title: "ଧାରଣାରୁ <span class=\"gradient-text\">ପ୍ରଭାବ ପର୍ଯ୍ୟନ୍ତ</span>",
     impact_desc: "କ୍ଲବ କେବଳ ଏକ ଆଲୋଚନା ମଞ୍ଚ ନୁହେଁ। ଏହା ବାସ୍ତବ, ଦୁନିଆଦାରି କାର୍ଯ୍ୟ ପାଇଁ ଏକ ଶକ୍ତିଶାଳୀ ଉତ୍ପ୍ରେରକ ଅଟେ।",
