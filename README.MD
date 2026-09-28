@@ -1,6 +1,6 @@
-# Dhenkanala.club
+# Dhenkanal.club
 
-Welcome to the **Dhenkanala.club** website project. This is a premium, modern, responsive static website built with HTML, CSS, and Vanilla JavaScript, optimized for performance and accessibility.
+Welcome to the **Dhenkanal.club** website project. This is a premium, modern, responsive static website built with HTML, CSS, and Vanilla JavaScript, optimized for performance and accessibility.
 
 ## 1. How to run locally
 
@@ -79,4 +79,4 @@ The generated `dist/` folder is a purely static site that can be deployed anywhe
 - **Traditional Hosting (cPanel, FTP):** Simply run `npm run build`, zip the contents of the `dist/` folder, and upload/extract them to your `public_html` directory.
 
 ---
-*Built for Dhenkanala.club - A Community of Minds, Wisdom & Purpose.*
+*Built for Dhenkanal.club - A Community of Minds, Wisdom & Purpose.*

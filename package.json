@@ -1,7 +1,7 @@
 {
   "name": "dhenkanal.club",
   "version": "1.0.0",
-  "description": "Create a **premium, modern, responsive static website** for **Dhenkanala.club**.",
+  "description": "Create a **premium, modern, responsive static website** for **Dhenkanal.club**.",
   "main": "index.js",
   "type": "module",
   "scripts": {
