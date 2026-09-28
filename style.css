@@ -441,8 +441,22 @@ h1, h2, h3, h4, h5 {
 
 /* MOBILE RESPONSIVE FIXES */
 @media (max-width: 768px) {
-  .nav-links, .desktop-only { display: none !important; }
+  .nav-links { display: none; }
+  .desktop-only { display: none !important; }
   .menu-toggle { display: block; }
+  
+  .nav-links.mobile-active {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: var(--bg-color);
+    padding: 2rem;
+    border-bottom: 1px solid var(--card-border);
+  }
+
   .hero { min-height: 60vh; padding-top: 6rem; }
   .section-padding { padding: 4rem 0; }
   .huge-panel { padding: 2rem 1.5rem; }
